@@ -1,0 +1,3 @@
+interface Step {
+    text:string;
+}

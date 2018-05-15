@@ -1,0 +1,7 @@
+#toolbar {
+    position: fixed;
+    right: 1%;
+    border: 1px solid #ced4da;
+    padding: 15px 10px;
+    top: 5%;
+}
